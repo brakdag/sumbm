@@ -1,0 +1,28 @@
+{
+  "name": "sumbm",
+  "version": "1.0.0",
+  "description": "sum matrix benchmark",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brakdag/sumbm.git"
+  },
+  "keywords": [
+    "sum",
+    "benchmark",
+    "javascript"
+  ],
+  "author": "brakdag@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brakdag/sumbm/issues"
+  },
+  "homepage": "https://github.com/brakdag/sumbm#readme"
+}
